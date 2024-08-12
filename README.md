@@ -1,0 +1,2 @@
+# deta
+quotation generator
